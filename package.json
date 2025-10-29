@@ -1,7 +1,7 @@
 {
-  "name": "discord-js-typescript-boilerplate",
-  "version": "0.0.1",
-  "description": "A simple boilerplate for creating Discord bots with TypeScript",
+  "name": "discord-audit-logger-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord audit logging bot with modular event toggles - supports 23 different event types",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
